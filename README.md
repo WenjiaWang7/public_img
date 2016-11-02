@@ -30,3 +30,9 @@ So, I dig into the data and shown them by hour. Firstly we can see that there is
 <img src="https://github.com/WenjiaWang7/public_img/blob/master/nov_alt.png" width = "450" height = "400"/> 
 
 In the end, I draw a dist-alt plot for these two days. On Mar.06, there are obviously three height layers below 10000feet, and then the more transponder position is approaching SMO, the flights with larger altitude while the flights will approach the ground if the position is far away from SMO. On Nov.13, the flights converged near SMO and have a roughly high altitude. On both day, there are several extremly high altitude flights.
+
+##Comparison of distant-altitude by hour
+<img src="https://github.com/WenjiaWang7/public_img/blob/master/mar_alt_hour.png" width = "450" height = "400"/> 
+<img src="https://github.com/WenjiaWang7/public_img/blob/master/nov_alt_hour.png" width = "450" height = "400"/> 
+
+From these two plot for each hour, we can see that during the night flights are at nearly 8000feet height. And during the daytime, with flights number increase, there are more flight share the lower altitude.
